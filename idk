@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Magyar Jövő Mozgalom</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#0b1b35;color:white}header{background:linear-gradient(90deg,#c62828,#fff,#2e7d32);padding:20px;text-align:center;color:#0b1b35;font-weight:bold}section{padding:40px;max-width:1000px;margin:auto}.card{background:#13294b;padding:20px;border-radius:12px;margin:20px 0}h2{color:#7ed957}.btn{display:inline-block;background:#2e7d32;color:white;padding:12px 24px;border-radius:8px;text-decoration:none}.footer{text-align:center;padding:20px;background:#081224}.hero{text-align:center;padding:60px}.logo{font-size:48px;font-weight:bold}</style>
+</head>
+<body>
+<header>MAGYAR JÖVŐ MOZGALOM</header>
+<section class="hero">
+<div class="logo">🇭🇺 Magyar Jövő Mozgalom</div>
+<p>Fejlődés. Biztonság. Jövő.</p>
+</section>
+<section>
+<div class="card"><h2>Kik vagyunk?</h2><p>Modern, fejlődésközpontú politikai közösség vagyunk, amely egy erősebb és igazságosabb Magyarországért dolgozik.</p></div>
+<div class="card"><h2>Céljaink</h2><ul><li>Városfejlesztés</li><li>Biztonság és rend</li><li>Munkahelyteremtés</li><li>Oktatás fejlesztése</li><li>Közösségépítés</li></ul></div>
+<div class="card"><h2>Mit csinálnánk?</h2><p>Új infrastruktúra, biztonságos utcák, több lehetőség a fiataloknak, átlátható vezetés és modern oktatás.</p></div>
+<div class="card"><h2>Kapcsolat</h2><p>📧 magyarjovomozgalommkrp@gmail.com</p></div>
+<div style="text-align:center"><a class="btn" href="mailto:magyarjovomozgalommkrp@gmail.com">Csatlakozz hozzánk</a></div>
+</section>
+<div class="footer">Együtt építjük a holnap Magyarországát!</div>
+</body>
+</html>
